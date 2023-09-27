@@ -12,3 +12,9 @@
    > git remote add origin ___________________
 7. Push the code
    > git push origin master
+
+# Making commits
+- Ideally each time you make a substantial change
+  > git add .
+  > git commit -m 'message related to the changes'
+  > git push origin master
